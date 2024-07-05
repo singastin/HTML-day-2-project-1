@@ -1,0 +1,12 @@
+body{
+   background-color: #aaded3;
+   border: 7px solid #0d222d;
+   border-radius: 100px;. 
+}
+h1{
+    background-color: #1e4d6d;
+    width: 160px;
+    height: 40px;
+    border-radius: 100px;
+    border: 7px solid #0d222d;
+}
